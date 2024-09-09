@@ -14,7 +14,7 @@ XPassword é um gerenciador de senhas seguro e intuitivo, desenvolvido para ajud
 O objetivo do XPassword é proporcionar aos usuários uma solução robusta para o gerenciamento de senhas, eliminando a necessidade de lembrar múltiplas credenciais e garantindo que suas informações estejam sempre seguras e acessíveis.
 
 ### Tecnologias Utilizadas:
- - Back-End: .NET Core
+ - Back-End: C# .NET Core
  - Front-End: Angular, TypeScript
  - Banco de Dados: SQLite
  - Criptografia: Argo2i, AES-256, HmacSha256
