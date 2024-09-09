@@ -17,7 +17,7 @@ O objetivo do XPassword é proporcionar aos usuários uma solução robusta para
  - Back-End: .NET Core
  - Front-End: Angular, TypeScript
  - Banco de Dados: SQLite
- - Criptografia: AES-256, SHA512
+ - Criptografia: Argo2i, AES-256, HmacSha256
   
 ### Colaboradores do projeto：
 - Eduardo Ribeiro Leal (Líder Desenvolvedor + Segurança, 28314702)
